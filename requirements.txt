@@ -3,3 +3,4 @@ uvicorn[standard]==0.34.0
 python-multipart==0.0.20
 google-genai==1.14.0
 pydantic==2.10.6
+yt-dlp
